@@ -1,0 +1,17 @@
+.fra{width: 100%;}
+.fra-1{width:16.6%; display:inline-block; overflow: hidden; float: left;} 
+.fra-2{width:33.2%; display:inline-block; overflow: hidden; float: left;} 
+.fra-3{width:49.8%; display:inline-block; overflow: hidden; float: left;} 
+.fra-4{width:66.4%; display:inline-block; overflow: hidden; float: left;} 
+.fra-5{width:83%; display:inline-block; overflow: hidden; float: left;} 
+.fra-6{width:99.6%; display:inline-block; overflow: hidden; float: left;} 
+
+
+body{
+    background-color: white;
+    font-size: 14px;
+    line-height: 18px;
+    overflow: scroll;
+    width: 100px;
+    margin-top: 80px;
+}
